@@ -1,0 +1,14 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "Package for npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julia Ong Oh",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
